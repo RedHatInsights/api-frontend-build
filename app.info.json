@@ -1,0 +1,11 @@
+{
+  "app_name": "api",
+  "src_hash": "bb523ea76809829f3082108d96625056e313fd1e",
+  "src_tag": "",
+  "src_branch": "master",
+  "travis": {
+    "event_type": "push",
+    "build_number": "2",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/api-frontend/builds/560044836"
+  }
+}
