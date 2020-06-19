@@ -1,11 +1,11 @@
 {
   "app_name": "api-docs",
-  "src_hash": "18b1361c847e30b07c85bbe60a3cb6f448772bdd",
+  "src_hash": "f104cefddc48920cd773cfeab0a2446cdf571a0a",
   "src_tag": "",
   "src_branch": "master",
   "travis": {
     "event_type": "push",
-    "build_number": "320",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/api-frontend/builds/678622431"
+    "build_number": "383",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/api-frontend/builds/700014045"
   }
 }
