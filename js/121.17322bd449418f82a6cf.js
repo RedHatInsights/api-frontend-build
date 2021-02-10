@@ -1,2 +1,0 @@
-(self.webpackChunkinsights_frontend_starter_app=self.webpackChunkinsights_frontend_starter_app||[]).push([[121],{67121:(e,s,n)=>{"use strict";n.d(s,{Z:()=>o}),e=n.hmd(e);const o=(t="undefined"!=typeof self?self:"undefined"!=typeof window?window:void 0!==n.g?n.g:e,"function"==typeof(r=t.Symbol)?r.observable?b=r.observable:(b=r("observable"),r.observable=b):b="@@observable",b);var t,b,r}}]);
-//# sourceMappingURL=121.17322bd449418f82a6cf.js.map
