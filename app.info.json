@@ -1,12 +1,12 @@
 {
   "app_name": "api-docs",
-  "src_hash": "0b78eae58655f0b40429a7f352640108eacb3dc2",
+  "src_hash": "91cfca68596ea77658c827dc9a47feccc04e53cc",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/react-core@4.152.4","@patternfly/react-table@4.29.58"],
   "travis": {
     "event_type": "push",
-    "build_number": "936",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/api-frontend/builds/237096167"
+    "build_number": "939",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/api-frontend/builds/237752195"
   }
 }
