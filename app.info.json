@@ -1,12 +1,14 @@
 {
   "app_name": "api-docs",
-  "src_hash": "3b95f27422eca57f9e3498335bdbfd07d164c79e",
+  "node_version": ">=15.0.0",
+  "src_hash": "3e43c4ce4bb79ed261f060b7ca9db4fc4175b4f0",
   "src_tag": "",
-  "src_branch": "ci-stable",
-  "patternfly_dependencies": ["@patternfly/react-core@4.32.1","@patternfly/react-table@4.12.1"],
+  "src_branch": "master-stable",
+  "patternfly_dependencies": ["@patternfly/react-core@4.214.1","@patternfly/react-table@4.83.1"],
+  "rh_cloud_services_dependencies": ["@redhat-cloud-services/frontend-components-notifications@3.2.5","@redhat-cloud-services/frontend-components-utilities@3.2.16","@redhat-cloud-services/frontend-components@3.8.12"],
   "travis": {
     "event_type": "push",
-    "build_number": "929",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/api-frontend/builds/234511124"
+    "build_number": "995",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/api-frontend/builds/250853366"
   }
 }
