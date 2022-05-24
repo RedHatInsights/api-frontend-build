@@ -1,0 +1,1 @@
+(self.webpackChunkinsights_frontend_starter_app=self.webpackChunkinsights_frontend_starter_app||[]).push([[1080],{11080:()=>{}}]);
