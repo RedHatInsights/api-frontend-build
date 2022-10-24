@@ -1,1 +1,0 @@
-(self.webpackChunkinsights_frontend_starter_app=self.webpackChunkinsights_frontend_starter_app||[]).push([[7350],{77350:()=>{}}]);
