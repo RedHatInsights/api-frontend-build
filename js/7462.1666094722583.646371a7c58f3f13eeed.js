@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkinsights_frontend_starter_app=self.webpackChunkinsights_frontend_starter_app||[]).push([[7462],{87462:(t,r,n)=>{function e(){return e=Object.assign||function(t){for(var r=1;r<arguments.length;r++){var n=arguments[r];for(var e in n)Object.prototype.hasOwnProperty.call(n,e)&&(t[e]=n[e])}return t},e.apply(this,arguments)}n.d(r,{Z:()=>e})}}]);
-//# sourceMappingURL=../sourcemaps/7462.3f17d6911579da5ad2215b69a64984a3.js.map
