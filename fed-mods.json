@@ -1,11 +1,11 @@
 {
-    "apiDocs": {
-        "entry": [
-            "/beta/apps/api-docs/apiDocs.1690375978854.e1a61e13ceb00281a8e9.js"
-        ],
-        "modules": [
-            "/beta/apps/api-docs/js/528.1690375978880.e1a61e13ceb00281a8e9.js",
-            "/beta/apps/api-docs/css/528.c3703680aa6b2be1308e.css"
-        ]
-    }
+  "name": "apiDocs",
+  "version": "1.0.0",
+  "extensions": [],
+  "registrationMethod": "callback",
+  "baseURL": "/beta/apps/api-docs/",
+  "loadScripts": [
+    "apiDocs.ef5cb4e8b79ead530eff.js"
+  ],
+  "buildHash": "ef5cb4e8b79ead530eff03238191c7be"
 }
