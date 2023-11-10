@@ -2,10 +2,10 @@
   "name": "apiDocs",
   "version": "1.0.0",
   "extensions": [],
-  "registrationMethod": "callback",
+  "registrationMethod": "custom",
   "baseURL": "/beta/apps/api-docs/",
   "loadScripts": [
-    "apiDocs.ef5cb4e8b79ead530eff.js"
+    "apiDocs.8c368b7eac58ae22c725.js"
   ],
-  "buildHash": "ef5cb4e8b79ead530eff03238191c7be"
+  "buildHash": "8c368b7eac58ae22c7259390fadf5793"
 }
