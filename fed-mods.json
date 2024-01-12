@@ -5,7 +5,7 @@
   "registrationMethod": "custom",
   "baseURL": "/beta/apps/api-docs/",
   "loadScripts": [
-    "apiDocs.8c368b7eac58ae22c725.js"
+    "apiDocs.6cdc255a97dc39d08318.js"
   ],
-  "buildHash": "8c368b7eac58ae22c7259390fadf5793"
+  "buildHash": "6cdc255a97dc39d08318fe7452d0e3db"
 }
