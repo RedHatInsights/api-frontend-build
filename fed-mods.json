@@ -1,11 +1,1 @@
-{
-  "name": "apiDocs",
-  "version": "1.0.0",
-  "extensions": [],
-  "registrationMethod": "custom",
-  "baseURL": "/beta/apps/api-docs/",
-  "loadScripts": [
-    "apiDocs.b3adc8998d9e95e0b1d6.js"
-  ],
-  "buildHash": "b3adc8998d9e95e0b1d67bd696e11a00"
-}
+{"name":"apiDocs","version":"1.0.0","extensions":[],"registrationMethod":"custom","baseURL":"/apps/api-docs/","loadScripts":["apiDocs.e2c6a14b921451f11064.js"],"buildHash":"a69877614cc2489456963b47f121f133"}
