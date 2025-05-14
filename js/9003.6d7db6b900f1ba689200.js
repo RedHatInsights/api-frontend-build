@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkapiDocs=self.webpackChunkapiDocs||[]).push([[9003],{9003:(c,n,e)=>{e.r(n),e.d(n,{AngleDownIcon:()=>o,AngleDownIconConfig:()=>l,default:()=>t});var s=e(40400);const l={name:"AngleDownIcon",height:512,width:320,svgPath:"M143 352.3L7 216.3c-9.4-9.4-9.4-24.6 0-33.9l22.6-22.6c9.4-9.4 24.6-9.4 33.9 0l96.4 96.4 96.4-96.4c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9l-136 136c-9.2 9.4-24.4 9.4-33.8 0z",yOffset:0,xOffset:0},o=(0,s.I)(l),t=o}}]);
-//# sourceMappingURL=../sourcemaps/9003.dd44f0de3d5ca3bfe61bfd922ba553a2.js.map
