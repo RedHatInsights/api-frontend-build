@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapiDocs=self.webpackChunkapiDocs||[]).push([[7247],{99628:(s,a,e)=>{e.r(a),e.d(a,{Content:()=>n.U,ContentVariants:()=>n.u});var n=e(30983)}}]);

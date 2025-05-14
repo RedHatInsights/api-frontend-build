@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkapiDocs=self.webpackChunkapiDocs||[]).push([[7286],{64089:(s,a,e)=>{e.r(a),e.d(a,{Badge:()=>c.C});var c=e(78711)}}]);
